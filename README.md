@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋, my name is Israel Quintero</h1>
+<h1 align="center">Hi! 👋, My name is Israel Quintero</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/israel-quintero-5b613a3ba/" target="_blank">
