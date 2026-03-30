@@ -7,10 +7,6 @@ About me:
 I speak Spanish, English, German and Portuguese, i have previously worked as a analyst at a Insurance company and as customer service rep at a banking campaign.
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israelq98" alt="israelq98" /></a> </p>
-
-
 - 💬 Ask me about **React, Python, Javascrypt**
 
 - 📫 How to reach me **ijsalasar@hotmail.com**
