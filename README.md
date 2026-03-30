@@ -14,10 +14,7 @@ I speak Spanish, English, German and Portuguese, i have previously worked as a a
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dkHF3-Z5AFV4euA1e49wD3wzUzZ9EuL4/view?usp=sharing](https://drive.google.com/file/d/1dkHF3-Z5AFV4euA1e49wD3wzUzZ9EuL4/view?usp=sharing)
 
 
-
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+💻 Tech Stack:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
