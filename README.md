@@ -6,6 +6,8 @@
   </a>
 </div>
 
+
+
 I'm currently working on my own small-scale projects to keep learning about new or current technologies that I enjoy working with.
 I'm also looking to start working in any job that will help me grow as a developer and get the experience of working with a big team.
 
