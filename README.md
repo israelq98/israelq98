@@ -14,6 +14,9 @@ I speak Spanish, English, German and Portuguese, i have previously worked as a a
 - 📄 Know about my experiences [https://drive.google.com/file/d/1dkHF3-Z5AFV4euA1e49wD3wzUzZ9EuL4/view?usp=sharing](https://drive.google.com/file/d/1dkHF3-Z5AFV4euA1e49wD3wzUzZ9EuL4/view?usp=sharing)
 
 
+
+My skills:
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
@@ -36,10 +39,4 @@ I speak Spanish, English, German and Portuguese, i have previously worked as a a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
-
-###
