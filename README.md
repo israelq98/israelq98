@@ -1,5 +1,8 @@
 <h1 align="center">Hi! 👋, My name is Israel Quintero</h1>
 
+
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/israel-quintero-5b613a3ba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,6 +13,8 @@
 
 I'm currently working on my own small-scale projects to keep learning about new or current technologies that I enjoy working with.
 I'm also looking to start working in any job that will help me grow as a developer and get the experience of working with a big team.
+
+I´m always ready to take on new challenges, with a quick learning ability and a proactive leadership mindset.
 
 <h1 align="center">About me:</h1>
 I speak Spanish, English, German and Portuguese, i have previously worked as a analyst at a Insurance company and as customer service rep at a banking campaign.
